@@ -1,0 +1,26 @@
+\input texinfo
+@setfilename specification.info
+@settitle BCL Specification
+
+@copying
+Copyright Nicolas Martyanoff
+
+This document may be freely copied provided it is not modified.
+@end copying
+
+@titlepage
+@end titlepage
+
+@contents
+
+@node Top
+@top BCL Specification
+
+@menu
+@detailmenu
+@end detailmenu
+@end menu
+
+@include introduction.texi
+
+@bye
