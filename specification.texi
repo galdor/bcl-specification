@@ -22,5 +22,9 @@ This document may be freely copied provided it is not modified.
 @end menu
 
 @include introduction.texi
+@include documents.texi
+@include syntax.texi
+@include canonical-representation.texi
+@include references.texi
 
 @bye

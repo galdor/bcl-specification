@@ -1,0 +1,3 @@
+@node canonical-representation
+@chapter Canonical representation
+TODO Canonical representation.
