@@ -1,3 +1,8 @@
 @node introduction
 @chapter Introduction
 TODO Introduction.
+
+@float
+@image{images/xkcd-standards}
+@caption{@url{https://xkcd.com/927/,XKCD 927 — Standards}}
+@end float
